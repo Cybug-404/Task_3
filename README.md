@@ -20,7 +20,7 @@ Discover common vulnerabilities on localhost.
 - Severities: SMB Signing Not Required, SSL Certificates Cannot Be Trusted, NTLMSSP Network Name Disclosure, WMI Not Available, DCE Services Enumeration, and TLS 1.2 and 1.3 Protocol Detection.
 
 ## 🧠 Learnings
------------------------------------------------------------------------------------------------------------------------------------------|
+
 | PORT | SERVICE      | DESCRIPTION                                     | VULNERABILITY                                                  |
 |------|--------------|-------------------------------------------------|----------------------------------------------------------------|
 | 135  | RPC          | Remote code execution (RCE)                     | DCE/RPC Interface Exposure (CVE-2021-26414, CVE-2022-26809     |
