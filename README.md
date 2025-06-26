@@ -29,7 +29,7 @@ Discover common vulnerabilities on localhost.
 | 49666| Dynamic RPC  | Remote desktop GUI access                       | Information Disclosure / Lateral Movement                      |
 | 49668| Dynamic RPC  | Remote desktop GUI access                       | Information Disclosure / Lateral Movement                      |
 | 49673| Dynamic RPC  | Remote desktop GUI access                       | Information Disclosure / Lateral Movement                      |
------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 | # | Finding Name                       | Severity      | Description                                                                                                    |
 |---|------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------|
