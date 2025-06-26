@@ -31,7 +31,6 @@ Discover common vulnerabilities on localhost.
 | 49673| Dynamic RPC  | Remote desktop GUI access                       | Information Disclosure / Lateral Movement                      |
 -----------------------------------------------------------------------------------------------------------------------------------------|
 
-==========================================================================================================================================================================
 | # | Finding Name                       | Severity      | Description                                                                                                    |
 |---|------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------|
 | 1 | SMB Signing Not Required           | Medium        | Remote SMB server does not enforce message signing, making it susceptible to man-in-the-middle (MITM) attacks. |
@@ -40,4 +39,3 @@ Discover common vulnerabilities on localhost.
 | 4 | WMI Not Available                  | Informational | Windows Management Instrumentation (WMI) is not accessible via DCOM, limiting remote management.               |
 | 5 | DCE Services Enumeration           | Informational | RPC endpoint mapper reveals available services. Can aid in targeted exploitation.                              |
 | 6 | TLS 1.2 and 1.3 Protocol Detection | Informational | Confirms use of modern encryption (TLS 1.2/1.3). No vulnerability, but useful for service fingerprinting.      |
-===========================================================================================================================================================================
